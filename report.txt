@@ -1,0 +1,159 @@
+
+
+Fresh Run
+
+--------------------- ROUND 25 --------------------
+Philosopher 1 has eaten 5 times.
+Philosopher 2 has eaten 5 times.
+Philosopher 3 has eaten 5 times.
+Philosopher 4 has eaten 5 times.
+Philosopher 5 has eaten 5 times.
+----------------------------------------------------
+--------------------- ROUND 50 --------------------
+Philosopher 1 has eaten 10 times.
+Philosopher 2 has eaten 10 times.
+Philosopher 3 has eaten 10 times.
+Philosopher 4 has eaten 10 times.
+Philosopher 5 has eaten 10 times.
+----------------------------------------------------
+
+
+Fresh Run
+
+--------------------- ROUND 0 --------------------
+Philosopher 1 has eaten 0 times.
+Philosopher 2 has eaten 0 times.
+Philosopher 3 has eaten 0 times.
+Philosopher 4 has eaten 0 times.
+Philosopher 5 has eaten 0 times.
+----------------------------------------------------
+--------------------- ROUND 0 --------------------
+--------------------- ROUND 0 --------------------
+Philosopher 1 has eaten 0 times.
+Philosopher 2 has eaten 0 times.
+Philosopher 3 has eaten 0 times.
+Philosopher 4 has eaten 0 times.
+Philosopher 5 has eaten 0 times.
+----------------------------------------------------
+---------------------------------------------------Philosopher 1 has eaten 0 times.
+Philosopher 2 has eaten 0 times.
+Philosopher 3 has eaten 0 times.
+Philosopher 4 has eaten 0 times.
+Philosopher 5 has eaten 0 times.
+----------------------------------------------------
+--------------------- ROUND 0 --------------------
+Philosopher 1 has eaten 0 times.
+Philosopher 2 has eaten 0 times.
+Philosopher 3 has eaten 0 times.
+Philosopher 4 has eaten 0 times.
+Philosopher 5 has eaten 0 times.
+----------------------------------------------------
+--------------------- ROUND 0 --------------------
+Philosopher 1 has eaten 0 times.
+Philosopher 2 has eaten 0 times.
+Philosopher 3 has eaten 0 times.
+Philosopher 4 has eaten 0 times.
+Philosopher 5 has eaten 0 times.
+----------------------------------------------------
+--------------------- ROUND 0 --------------------
+Philosopher 1 has eaten 0 times.
+Philosopher 2 has eaten 0 times.
+Philosopher 3 has eaten 0 times.
+Philosopher 4 has eaten 0 times.
+Philosopher 5 has eaten 0 times.
+----------------------------------------------------
+--------------------- ROUND 50 --------------------
+Philosopher 1 has eaten 11 times.
+Philosopher 2 has eaten 7 times.
+Philosopher 3 has eaten 12 times.
+Philosopher 4 has eaten 8 times.
+Philosopher 5 has eaten 12 times.
+----------------------------------------------------
+--------------------- ROUND 50 --------------------
+Philosopher 1 has eaten 11 times.
+Philosopher 2 has eaten 7 times.
+Philosopher 3 has eaten 12 times.
+Philosopher 4 has eaten 8 times.
+Philosopher 5 has eaten 12 times.
+----------------------------------------------------
+--------------------- ROUND 50 --------------------
+Philosopher 1 has eaten 11 times.
+Philosopher 2 has eaten 7 times.
+Philosopher 3 has eaten 12 times.
+Philosopher 4 has eaten 8 times.
+Philosopher 5 has eaten 12 times.
+----------------------------------------------------
+--------------------- ROUND 50 --------------------
+Philosopher 1 has eaten 11 times.
+Philosopher 2 has eaten 7 times.
+Philosopher 3 has eaten 12 times.
+Philosopher 4 has eaten 8 times.
+Philosopher 5 has eaten 12 times.
+----------------------------------------------------
+--------------------- ROUND 75 --------------------
+Philosopher 1 has eaten 16 times.
+Philosopher 2 has eaten 13 times.
+Philosopher 3 has eaten 17 times.
+Philosopher 4 has eaten 12 times.
+Philosopher 5 has eaten 17 times.
+----------------------------------------------------
+--------------------- ROUND 75 --------------------
+Philosopher 1 has eaten 16 times.
+--------------------- ROUND Philosopher 75 --------------------
+2 has eaten 13 times.
+--------------------- ROUND 75 --------------------
+Philosopher 1 has eaten 16 times.
+Philosopher 2 has eaten 13 times.
+Philosopher 2 has eate has eaten 17 times.
+Philosopher 3 has eaten 17 times.
+Philosopher 4 has eaten 12 times.
+Philosopher 5 has eaten 17 times.
+----------------------------------------------------
+----------------------------------------------------
+.
+------------------
+Philosopher ---------Philosopher 4 has eaten 12 times.
+Philosopher 5 has eaten 17 times.
+----------------------------------------------------
+1 has eaten 16 times.
+Philosopher 2 has eaten 13 times.
+Philosopher 3 has eaten 17 times.
+Philosopher 4 has eaten 12 times.
+Philosopher 5 has eaten 17 times.
+----------------------------------------------------
+--------------------- ROUND 100 --------------------
+Philosopher 1 has eaten 21 times.
+--------------------- ROUND 100 --------------------
+Philosopher 2 has eaten 18 times.
+Philosopher 3 has eaten 22 times.
+Philosopher 4 has eaten 16 times.
+Philosopher 5 has eaten 23 times.
+----------------------------------------------------
+----------------------------------------------------
+Philosopher 1 has eaten 21 times.
+Philosopher 2 has eaten 18 times.
+Philosopher 3 has eaten 22 times.
+Philosopher 4 has eaten 16 times.
+Philosopher 5 has eaten 23 times.
+----------------------------------------------------
+--------------------- ROUND 100 --------------------
+Philosopher 1 has eaten 21 times.
+Philosopher 2 has eaten 18 times.
+Philosopher 3 has eaten 22 times.
+Philosopher 4 has eaten 16 times.
+Philosopher 5 has eaten 23 times.
+----------------------------------------------------
+--------------------- ROUND 125 --------------------
+Philosopher 1 has eaten 25 times.
+Philosopher 2 has eaten 23 times.
+Philosopher 3 has eaten 28 times.
+Philosopher 4 has eaten 20 times.
+Philosopher 5 has eaten 29 times.
+----------------------------------------------------
+--------------------- ROUND 125 --------------------
+Philosopher 1 has eaten 25 times.
+Philosopher 2 has eaten 23 times.
+Philosopher 3 has eaten 28 times.
+Philosopher 4 has eaten 20 times.
+Philosopher 5 has eaten 29 times.
+----------------------------------------------------

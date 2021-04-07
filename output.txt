@@ -1,0 +1,1782 @@
+ 
+
+ Fresh Run 
+
+
+
+Fresh Run
+
+Philosopher 1 is thinking.
+Philosopher 2 is thinking.
+Philosopher 3 is thinking.
+Philosopher 4 is thinking.
+Philosopher 5 is thinking.
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 3 is hungry.
+Philosopher 4 is hungry.
+Philosopher 5 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 1 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 1 number of times.
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 1 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 1 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 1 number of times.
+Philosopher 5 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 2 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 2 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 2 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 2 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 2 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 3 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 3 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 3 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 3 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 3 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 4 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 4 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 4 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 4 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 4 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 5 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 5 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 5 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 5 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 5 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 6 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 6 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 6 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 6 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 6 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 7 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 7 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 7 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 7 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 7 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 8 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 8 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 8 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 8 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 8 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 9 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 9 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 9 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 9 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 9 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 10 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 10 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 10 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 10 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 10 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 11 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+
+
+Fresh Run
+
+Philosopher 1 is thinking.
+Philosopher 2 is thinking.
+Philosopher 3 is thinking.
+Philosopher 4 is thinking.
+Philosopher 5 is thinking.
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 is hungry.
+Philosopher 4 is hungry.
+Philosopher 3 is hungry.
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 1 is hungry.
+Philosopher 4 is eating
+Philosopher 1 is hungry.
+Philosopher 2 takes fork 2 and 3
+Philosopher 4 has eaten 1 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 1 is thinking
+ork 1 aPhilosopher 2 is eating
+Philosopher 2 has eaten 1 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 5 is eating
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 5 has eaten 1 number of times.
+Philosopher 1 is thinking
+Philosopher 5 has eaten 1 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 2 takes fork 2 and 3
+Philosopher 1 is eating
+Philosopher 2 takes fork 2 and 3
+Philosopher 1 has eaten 1 number of times.
+Philosopher 2 is eating
+Philosopher 1 has eaten 1 number of times.
+Philosopher 2 has eaten 2 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 1 is hungry.
+Philosopher 5 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 1 is thinkingPhilosopher 4 is hungry.
+Philosopher 2 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 2 is putting fork 2 and 3 down.
+
+Philosopher 2 is thinking
+
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 1 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 2 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 3 is hungry.
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 4 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 3 number of times.
+Philosopher 2 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 3 has eaten 2 number of times.
+Philosopher 2 is thinking
+Philosopher 3 has eaten 2 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 5 is hungry.
+Philosopher 4 is eating
+Philosopher 5 is hungry.
+Philosopher 4 has eaten 2 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 5 is thinking
+Philosopher 4 is thinking
+Philosopher 3 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 2 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 1 is eating
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 1 has eaten 2 number of times.
+Philosopher 2 is thinking
+Philosopher 1 has eaten 2 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 4 is hungry.
+Philosopher 5 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 3 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher Philosopher 2 is thinking1
+
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 3 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 3 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 3 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 5 is hungry.
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 4 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 5 takes fork 5 and 1
+Philosopher 4 is eating
+Philosopher 5 takes fork 5 and 1
+Philosopher 4 has eaten 4 number of times.
+Philosopher 4 has eaten 4 number of times.
+Philosopher 5 is eating
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher Philosopher 5 has eaten 44 is thinking number of times.
+
+Philosopher Philosopher 5 has eaten 44 is thinking number of times.
+
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 4 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 4 is thinking
+ork 4 and 5 down.
+Philosopher 5 is thinking
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 4 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 5 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 5 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 5 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 5 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 5 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 5 is hungry.
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 6 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 5 takes fork 5 and 1
+Philosopher 4 has eaten 6 number of times.
+Philosopher 5 is eating
+Philosopher 4 has eaten 6 number of times.
+Philosopher 5 has eaten 6 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 5 is putting fork 5 and 1 down.
+4 is thinking
+Philosopher 5 is thinking
+4 is thinking
+Philosopher 3 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 5 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 6 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 5 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 7 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 4 takes fork 4 and 5
+Philosopher 5 is eating
+Philosopher 4 takes fork 4 and 5
+Philosopher 5 has eaten 7 number of times.
+Philosopher 4 is eating
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 4 has eaten 7 number of times.
+Philosopher 5 is thinking
+Philosopher 4 has eaten 7 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 3 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 7 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 8 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 8 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 3 is hungry.
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 8 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 4 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 9 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 9 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 9 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 5 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 10 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 10 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 4 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 1 is eating
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 1 has eaten 10 number of times.
+Philosopher 4 is thinking
+Philosopher 1 has eaten 10 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 6 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 11 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 11 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 11 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 4 is hungry.
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 7 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 12 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 8 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 12 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 is eating
+ 1 and 2
+Philosopher 2 is eating
+Philosopher 1 has eaten 12 number of times.
+Philosopher 2 has eaten 8 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 13 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is hungry.
+Philosopher 1 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 1 is putting fork 1 and 2 down.
+4 is thinking
+Philosopher 1 is thinking
+4 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 4 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 1 is thinking
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 13 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 9 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 1 is hungry.
+Philosopher 4 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 1 is thinkingPhilosopher 5 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 14 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 4 is eating
+Philosopher 4 has eaten 9 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 4 is thinking
+ork 4 and 5 down.
+Philosopher 2 is thinking
+Philosopher 1 is hungry.
+Philosopher 3 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 5 is eating
+3 is thinking
+Philosopher 5 has eaten 14 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 2 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 is hungry.
+Philosopher 3 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 4 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 1 is eating
+Philosopher 1 has eaten 13 number of times.
+Philosopher 4 is thinking
+ number of times.
+Philosopher 4 is thinking
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 10 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 15 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 5 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 1 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 2 is hungry.
+Philosopher 4 has eaten 10 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 15 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 2 is hungry.
+Philosopher 4 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 4 is thinking
+ork 4 and 5 down.
+Philosopher 1 is eating
+Philosopher 1 has eaten 14 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 is hungry.
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 4 is hungry.
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 11 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 16 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 5 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 2 is hungry.
+Philosopher 4 is eating
+Philosopher 2 is hungry.
+Philosopher 4 has eaten 11 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 16 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 4 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 4 is putting fork 4 and 5 down.
+1 has eaten 15 number of times.
+Philosopher 4 is thinking
+1 has eaten 15 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 is hungry.
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 12 number of times.
+Philosopher 1 is hungry.
+Philosopher 4 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 1 is thinking
+ork 1 and 2 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher Philosopher 2 is putting fork 1 is thinking2
+ and 3 down.
+Philosopher 2 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 17 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 12 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 17 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 3 is hungry.
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 4 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 1 is eating
+Philosopher 1 has eaten 16 number of times.
+Philosopher 1 has eaten 16 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 2 takes fork 2 and 3
+Philosopher 4 is thinking
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 1 is thinking
+ork 1 and 2 down.
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 13 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 1 is hungry.
+Philosopher 4 is hungry.
+Philosopher 2 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 1 is thinking
+Philosopher 4 is thinking
+Philosopher 1 is thinking
+Philosopher 4 is tPhilosopher 2 is thinking
+Philosopher 2 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 18 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 4 is hungry.
+Philosopher 2 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+ngry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 1 is putting fork 1 and 2Philosopher  down.
+4 is thinking
+Philosopher 1 is thinking
+4 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 18 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 1 is hungry.
+Philosopher 4 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher Philosopher 3 is thinking
+5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 14 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 1 is hungry.
+Philosopher 5 is hungry.
+Philosopher 3 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 5 is thinkingPhilosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 13 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 4 is putting fork 4 and 5 down.
+2 is thinking
+Philosopher 4 is thinking
+2 is thinking
+Philosopher 5 is hungry.
+Philosopher 3 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 5 is thinkingPhilosopher 4 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 1 is eating
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 1 Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 1 has eaten 17 number of times.
+Philosopher 4 is thinking
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 1 has eaten 17 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 1 is putting fork 1Philosopher  and 2 down.
+2 is thinking
+Philosopher 1 is thinking
+2 is thinking
+Philosopher 5 is hungry.
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+ngry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 1 is thinking
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 2 is thinking
+Philosopher 2 is thinking
+ork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 19 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 4 is thinkingPhilosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 19 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 18 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 15 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 20 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 5 is hungry.
+Philosopher 1 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 14 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 3 is hungry.
+Philosopher 5 takes fork 5 and 1
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 3 is thinking
+ and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 20 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 19 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 4 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 16 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 15 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 2 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 21 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 20 number of times.
+Philosopher 2 takes fork 2 and 3
+Philosopher 1 is hungry.
+Philosopher 2 is eating
+Philosopher 1 is hungry.
+2 has eaten 17 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 1 is thinking
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 5 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 1 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 2 is thinking
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 21 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 2 is hungry.
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 22 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 1 is hungry.
+Philosopher 4 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 18 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 22 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 1 is hungry.
+Philosopher 4 takes fork 4 and 5
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 4 is eating
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 4 has eaten 16 number of times.
+Philosopher 2 is thinking
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 4 is hungry.
+Philosopher 2 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 23 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 4 is hungry.
+Philosopher 1 has eaten 21 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 19 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 23 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 1 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 17 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 24 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 22 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 24 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 25 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 4 is hungry.
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 20 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 is hungry.
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 25 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 18 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 26 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 23 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 21 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 26 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 5 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 1 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 19 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 27 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 24 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 27 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 28 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 4 is hungry.
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 22 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 1 is hungry.
+Philosopher 5 is hungry.
+Philosopher 3 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 20 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 takes fork 1 and 2
+Philosopher 1 is eating
+Philosopher 1 has eaten 25 number of times.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 is hungry.
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 3 is eating
+Philosopher 3 has eaten 28 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 1 is hungry.
+Philosopher 4 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 1 is thinkingPhilosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 5 takes fork 5 and 1
+Philosopher 5 is eating
+Philosopher 5 has eaten 29 number of times.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 3 is hungry.
+Philosopher 1 is hungry.
+Philosopher 4 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 5 is hungry.
+Philosopher 5 is putting fork 5 and 1 down.
+Philosopher 5 is thinking
+Philosopher 2 takes fork 2 and 3
+Philosopher 2 is eating
+Philosopher 2 has eaten 23 number of times.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 1 is hungry.
+Philosopher 1 is putting fork 1 and 2 down.
+Philosopher 1 is thinking
+Philosopher 3 takes fork 3 and 4
+Philosopher 5 is hungry.
+Philosopher 3 is eating
+Philosopher 5 is hungry.
+Philosopher 3 has eaten 29 number of times.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 2 is putting fork 2 and 3 down.
+Philosopher 2 is thinking
+Philosopher 4 takes fork 4 and 5
+Philosopher 4 is eating
+Philosopher 4 has eaten 21 number of times.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
+Philosopher 1 is hungry.
+Philosopher 3 is hungry.
+Philosopher 3 is putting fork 3 and 4 down.
+Philosopher 3 is thinking
+Philosopher 2 is hungry.
+Philosopher 4 is hungry.
+Philosopher 4 is putting fork 4 and 5 down.
+Philosopher 4 is thinking
